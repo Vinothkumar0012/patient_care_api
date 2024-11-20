@@ -1,0 +1,26 @@
+[
+    {
+        "appointment_id": "A1",
+        "user_id": "1",
+        "doctor_id": "D013",
+        "date": "2024-11-20",
+        "time": "15:44",
+        "patient_name": "Kalpana",
+        "patient_age": "21",
+        "patient_gender": "Female",
+        "patient_contact": "6379519087",
+        "reason": "dsvmndsvm"
+    },
+    {
+        "appointment_id": "A2",
+        "user_id": "1",
+        "doctor_id": "D015",
+        "date": "2024-11-20",
+        "time": "15:46",
+        "patient_name": "Kalpana",
+        "patient_age": "21",
+        "patient_gender": "Female",
+        "patient_contact": "6379519087",
+        "reason": "YEs yes "
+    }
+]
