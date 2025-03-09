@@ -1,72 +1,92 @@
 [
   {
     "hospital_id": "H001",
-    "hospital_name": "Coimbatore Medical College Hospital",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "open_time": "08:00 AM",
-    "close_time": "08:00 PM"
+    "hospital_name": "Kumaran Medical Center",
+    "location": "Near Saravanampatti, Kurumbapalayam SSKulam, Coimbatore, Tamil Nadu 641107",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.10752696540974,
+    "lon": 77.02396937116447
   },
   {
     "hospital_id": "H002",
-    "hospital_name": "Kovai Medical Center and Hospital",
-    "location": "Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu, India",
+    "hospital_name": "Ganga Hospital",
+    "location": "Mettupalayam Rd, Saibaba Colony, Coimbatore, Tamil Nadu 641043",
     "open_time": "24 Hours",
-    "close_time": "24 Hours"
+    "close_time": "24 Hours",
+    "lat": 11.026198242640133,
+    "lon": 76.95217478465787
   },
   {
     "hospital_id": "H003",
-    "hospital_name": "PSG Hospitals",
-    "location": "Peelamedu, Coimbatore, Tamil Nadu, India",
-    "open_time": "08:00 AM",
-    "close_time": "09:00 PM"
+    "hospital_name": "Sri Ramakrishna Hospital",
+    "location": "Sarojini Naidu Rd, Siddhapudur, New Siddhapudur, Coimbatore, Tamil Nadu 641044",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.023395883121557,
+    "lon": 76.9777328
   },
   {
     "hospital_id": "H004",
-    "hospital_name": "G.Kuppuswamy Naidu Memorial Hospital",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "open_time": "09:00 AM",
-    "close_time": "07:00 PM"
+    "hospital_name": "Kovai Medical Center and Hospital",
+    "location": "Avinashi Road, Peelamedu - Pudur Main Rd, Civil Aerodrome Post, Coimbatore, Tamil Nadu 641014",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.042556618044308,
+    "lon": 77.04047935767105
   },
   {
     "hospital_id": "H005",
-    "hospital_name": "Sri Ramakrishna Hospital",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "open_time": "08:00 AM",
-    "close_time": "08:00 PM"
+    "hospital_name": "KG Hospital",
+    "location": "Government Arts College Rd, Opposite Court, Gopalapuram, Coimbatore, Tamil Nadu 641018",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.000489926748548,
+    "lon": 76.97151985582232
   },
   {
     "hospital_id": "H006",
-    "hospital_name": "Apollo Speciality Hospitals",
-    "location": "Greams Road, Chennai, Tamil Nadu, India",
+    "hospital_name": "CSR Hospital",
+    "location": "7th St Extension, Gandhipuram, Coimbatore, Tamil Nadu 641012",
     "open_time": "24 Hours",
-    "close_time": "24 Hours"
+    "close_time": "24 Hours",
+    "lat": 11.021268408541998,
+    "lon": 76.96618725767107
   },
   {
     "hospital_id": "H007",
-    "hospital_name": "Fortis Malar Hospital",
-    "location": "Adyar, Chennai, Tamil Nadu, India",
-    "open_time": "09:00 AM",
-    "close_time": "09:00 PM"
+    "hospital_name": "BRJ Ortho Centre and MAK Hospital",
+    "location": "Mettupalayam Rd, near Fertilizer Company, Kuppakonam Pudur, Coimbatore, Tamil Nadu 641043",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.034341388563266,
+    "lon": 76.95123627116446
   },
   {
     "hospital_id": "H008",
-    "hospital_name": "Manipal Hospitals",
-    "location": "Old Airport Road, Bengaluru, Karnataka, India",
-    "open_time": "08:00 AM",
-    "close_time": "08:00 PM"
+    "hospital_name": "Kongunad Hospital",
+    "location": "11th St, Tatabad, Coimbatore, Tamil Nadu 641012",
+    "open_time": "24 Hours",
+    "close_time": "24 Hours",
+    "lat": 11.017952818198603,
+    "lon": 76.9604544
   },
   {
     "hospital_id": "H009",
-    "hospital_name": "Max Super Speciality Hospital",
-    "location": "Saket, New Delhi, India",
+    "hospital_name": "Dr. S.G. Rajarathinam Hospital",
+    "location": "Vivekananda Rd, Ram Nagar, Coimbatore, Tamil Nadu 641009",
     "open_time": "24 Hours",
-    "close_time": "24 Hours"
+    "close_time": "24 Hours",
+    "lat": 11.00972932452357,
+    "lon": 76.9619891865066
   },
   {
     "hospital_id": "H010",
-    "hospital_name": "AIIMS",
-    "location": "Ansari Nagar, New Delhi, India",
+    "hospital_name": "Sathya medical Centre & Hospital",
+    "location": "1st Street, Sivananda Colony, Tatabad, Coimbatore, Tamil Nadu 641012",
     "open_time": "24 Hours",
-    "close_time": "24 Hours"
+    "close_time": "24 Hours",
+    "lat": 11.023801844570947,
+    "lon": 76.95850745951978
   }
 ]
