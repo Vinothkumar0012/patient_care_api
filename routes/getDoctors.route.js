@@ -21,7 +21,9 @@ function getDoctors(req, res) {
                 hospital_name: hospital.hospital_name,
                 location: hospital.location,
                 open_time: hospital.open_time,
-                close_time: hospital.close_time
+                close_time: hospital.close_time,
+                lat: hospital.lat,
+                lon: hospital.lon
             } : null
         };
     });
